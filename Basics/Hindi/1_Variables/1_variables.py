@@ -12,14 +12,19 @@ jay="amitabh"
 thakur="sanjiv kumar"
 
 print("actors in sholey: ",gabbar,jay,thakur)
+# %%
 
 print(type(rent))
 print(type(groceries))
 print(type(gabbar))
+# %%
 
 # boolean
 learn_python=True
 learn_fortran=False
+print(type(learn_python))
+
+# %%
 
 # variable naming rules
 # no keywords: example True, for
