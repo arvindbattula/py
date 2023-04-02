@@ -1,9 +1,12 @@
+# %%
 rent=8000
 petrol=500.5
 groceries=2050.5
 print(rent)
 total=rent+petrol+groceries
+print(total)
 
+# %%
 gabbar="amjad khan"
 jay="amitabh"
 thakur="sanjiv kumar"
